@@ -8,7 +8,9 @@
      <title>Document</title>
 </head>
 <body>
-
+<?
+      echo "Hello world";
+      ?>
 
 <p> holiii </p>
  </body>     
