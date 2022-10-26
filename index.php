@@ -10,11 +10,7 @@
 <body>
 
 
-
-      <?php
-echo "Hello World";
-   >
-      <p> holiii </p>
+<p> holiii </p>
  </body>     
 </html>
 
