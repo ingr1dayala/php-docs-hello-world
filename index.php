@@ -8,8 +8,14 @@
      <title>Document</title>
 </head>
 <body>
-<?
+
+
+
+      <?php
 echo "Hello World";
->
-</body>
+   >
+      <p> holiii </p>
+ </body>     
 </html>
+
+      
